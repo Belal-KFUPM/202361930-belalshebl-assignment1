@@ -13,7 +13,6 @@ I used ChatGPT as a support tool to speed up development and reduce trial-and-er
   - a dark/light theme toggle with persistence,
   - a time-based greeting message in the hero section.
 - **Identify required HTML edits** to connect the JS features (IDs/classes for greeting and theme button, adding the script tag).
-Add this under **“Tools Used & Use Cases” → “ChatGPT”** in `docs/ai-usage-report.md` (as an extra bullet), or if you already have that list, paste it at the end of the ChatGPT bullet list.
 - **Documentation support:** Used ChatGPT to draft and refine project documentation (README and technical documentation), ensuring the docs clearly describe the project structure, features, and how to run the site locally while keeping the final wording aligned with my implementation.
 
 ## Benefits & Challenges
